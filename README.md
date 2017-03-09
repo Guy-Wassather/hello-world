@@ -4,4 +4,4 @@ I have been teaching elementary school for the past 6 years. After a lot of cons
 
 I have been exploring javascript, html/css, arduino tinkering (c?), and python to a lesser extent. So far, I am having a blast learning the basics of programming, and am trying to decide if this is something I would want to make a career out of. 
 
-Also, I like snakes, hiking, whittling, climbing, whiskey, beer, reading, and writing. 
+Also, I like snakes, learning, hiking, whittling, climbing, whiskey, beer, reading, and writing. 
